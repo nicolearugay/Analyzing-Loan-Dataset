@@ -1,2 +1,3 @@
 # analyzing-loan-dataset
-k-means clustering, random forest, variable importances, sklearn
+
+Analyzing a loan dataset using k-means clustering, random forest, variable importances, and sklearn.
